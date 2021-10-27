@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.clase1{
+    background-color: red;
+    height: 250px;
+    width: 250px;
+    margin: 30px 30px 70px 70px;
+    padding: 90px 30px 20px;
+    border: solid 30px pink;
+    display: inline-block;
+}
+.clase2{
+    background-color: blue;
+    height: 250px;
+    width: 250px;
+    display: block;
+}
+.clase3{
+    background-color: green;
+    height: 250px;
+    width: 250px;
+}
